@@ -13,6 +13,12 @@ body {
 nav {
     text-align: center;
 }
+a:link {
+    color: lightsteelblue;
+}
+a:visited {
+    color: darkblue;
+}
 h1.index {
     color: #EDDDD0;
     text-align: center;
